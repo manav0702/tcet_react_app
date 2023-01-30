@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tcet_react_app/static/css/main.073c9b0a.css",
+    "main.js": "/tcet_react_app/static/js/main.b5236d47.js",
+    "static/js/787.bc7d429a.chunk.js": "/tcet_react_app/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo.svg": "/tcet_react_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tcet_react_app/index.html",
+    "main.073c9b0a.css.map": "/tcet_react_app/static/css/main.073c9b0a.css.map",
+    "main.b5236d47.js.map": "/tcet_react_app/static/js/main.b5236d47.js.map",
+    "787.bc7d429a.chunk.js.map": "/tcet_react_app/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b5236d47.js"
+  ]
+}
